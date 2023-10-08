@@ -2,7 +2,7 @@
   "customComponentItems": {
     "ZhipuAi": {
       "name": "ZhipuAi",
-      "imagePath": "preview/assistant.jpg",
+      "imagePath": "preview/assistant.png",
       "description": "ZhipuAi sse-问答",
       "itemInputs": [
         {
