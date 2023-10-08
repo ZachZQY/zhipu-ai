@@ -1,0 +1,28 @@
+{
+  "customComponentItems": {
+    "ZhipuAi": {
+      "name": "ZhipuAi",
+      "imagePath": "preview/assistant.jpg",
+      "description": "ZhipuAi sse-问答",
+      "itemInputs": [
+        {
+          "fieldName": "chat_config",
+          "type": "TEXT"
+        },
+        {
+          "fieldName": "isSend",
+          "type": "BOOLEAN"
+        },
+        {
+          "fieldName": "token",
+          "type": "TEXT"
+        },
+        {
+          "fieldName": "api_key",
+          "type": "TEXT"
+        }
+      ]
+    }
+  },
+  "version": "1.2.1"
+}
